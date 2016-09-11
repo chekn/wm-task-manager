@@ -1,0 +1,2 @@
+<p>个股资金流入前十排行：<#list StkFundFlow.FFinList as FFin>${FFin_index+1}).<#if FFin_has_next>${FFin}；<#else>${FFin}。</#if></#list></p> 
+<p>个股资金流出前十排行：<#list StkFundFlow.FFoutList as FFout>${FFout_index+1}).<#if FFout_has_next>${FFout}；<#else>${FFout}。</#if></#list></p> 

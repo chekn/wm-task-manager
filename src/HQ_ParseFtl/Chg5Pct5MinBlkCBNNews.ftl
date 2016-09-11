@@ -1,0 +1,1 @@
+${Chg5Pct5MinBlk['hsData']['board']}快速<#if Chg5Pct5MinBlk['hsData']['isUp']>拉升，上涨<#else>下行，下跌</#if>${Chg5Pct5MinBlk['hsData']['val']}。

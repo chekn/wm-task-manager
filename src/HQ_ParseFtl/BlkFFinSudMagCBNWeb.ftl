@@ -1,0 +1,1 @@
+<p><#if BlkFFinSudMag.amPm='全天'>午后<#else>早盘</#if>，${BlkFFinSudMag.blkName}资金流入突然加大，5分钟内资金流入达${BlkFFinSudMag.FFin}万元</p>

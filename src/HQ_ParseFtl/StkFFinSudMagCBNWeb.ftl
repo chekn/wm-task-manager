@@ -1,0 +1,1 @@
+${StkFFinSudMag.amPm}，${StkFFinSudMag.simpleName}资金注入突然加大，5分钟内资金流入达${StkFFinSudMag.FFin}万元。

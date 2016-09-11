@@ -1,0 +1,1 @@
+截至收盘，沪深两市共有${ChgSusp.amtUpSusp}只个股涨停，${ChgSusp.amtDownSusp}只个股跌停。

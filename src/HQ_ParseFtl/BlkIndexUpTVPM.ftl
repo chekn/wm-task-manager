@@ -1,0 +1,1 @@
+<p>${BlkIndexUp.blkName}走势强劲。<#list BlkIndexUp.stkUpSuspList as stkUpSusp>${stkUpSusp}<#if stkUpSusp_has_next>、</#if></#list>涨停，<#list BlkIndexUp.topStkList as topStk>${topStk}%<#if topStk_has_next>、</#if></#list>。</p>
